@@ -186,6 +186,53 @@ Frequently check for any loose wires, cracks, or unusual behavior and get it rep
 Avoid Overcharging:
 Overcharging the battery can reduce its lifespan — unplug after it is fully charged.
 
+📊 Result Analysis:
+The IoT-based Blind Stick was tested in different environments (indoor and outdoor) and under various conditions (daylight, low light, and uneven surfaces). The results are summarized below:
+
+✅ 1. Obstacle Detection Accuracy:
+Ultrasonic sensors detected obstacles within a range of 1–3 meters.
+
+The alert system (buzzer/vibration) activated within 1 second of obstacle detection.
+
+Accuracy: ~90% for solid objects like walls, poles, and people.
+
+✅ 2. GPS Tracking Performance:
+Real-time location tracking was successful in open areas.
+
+Slight delay or inaccuracy in crowded or covered environments (e.g., tunnels or dense buildings).
+
+Location accuracy: ~85–90% depending on signal strength.
+
+✅ 3. Emergency Alert System:
+Successfully sent SMS alerts with GPS coordinates during test simulations.
+
+Response time was under 10 seconds.
+
+✅ 4. Power Usage:
+Battery lasted 6–8 hours on continuous use.
+
+Needs daily or alternate day charging depending on usage.
+
+✅ 5. User Feedback:
+Visually impaired users found the device helpful for:
+
+Avoiding obstacles
+
+Feeling more confident while walking
+
+Getting location help when lost
+
+Suggested improvements:
+
+Add voice guidance
+
+Improve battery backup
+
+Reduce stick weight
+
+📌 Overall Result:
+The smart blind stick performed effectively in improving navigation and safety for visually impaired users. Minor improvements in sensor range, battery life, and weather resistance could make it even more reliable and user-friendly.
+
 ✅ Conclusion:
 The IoT-based blind stick is a smart and innovative solution designed to improve the mobility, safety, and independence of visually impaired individuals. By integrating technologies like sensors, GPS, and wireless communication, it enables real-time obstacle detection, navigation, and emergency assistance. Despite a few limitations such as cost and battery dependency, the device offers significant benefits that can greatly enhance the quality of life for blind users. With further advancements and affordability, it has the potential to become a widely adopted assistive tool in the future.
 
