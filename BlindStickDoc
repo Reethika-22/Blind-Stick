@@ -29,3 +29,8 @@ Battery (Li-ion or 9V)	Portable power supply for the system.
 Switch/Button	To activate/deactivate emergency alerts.
 Connecting Wires & Breadboard	For circuit connections.
 Stick (Plastic/Aluminum)	To mount components and serve as the walking stick.
+
+✅ Software Requirements :
+Arduino IDE -	For programming the microcontroller.
+Arduino Code -	Logic for sensor readings and alerts.
+IoT Platform (e.g., Blynk, ThingSpeak) -	(Optional) For remote monitoring.
